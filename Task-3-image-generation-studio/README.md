@@ -39,7 +39,7 @@ Output is saved as `output.png` in the current directory.
 
 Prompt: `"a cat astronaut, watercolor style"`
 
-![Generated image](Task-3-image-generation-studio/output.png)
+![Generated image](output.png)
 
 ## What I learned
 
